@@ -4,7 +4,7 @@ variable "run_id" {
 }
 
 variable "sleep_time" {
-  default = 15
+  default = 30
 }
 
 variable "dynatrace-operator_enabled" {
